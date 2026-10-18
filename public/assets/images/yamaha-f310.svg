@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" role="img" aria-label="Ilustrasi alat musik">
+  <rect width="800" height="620" fill="#f3eddd"/>
+  <path d="M0 490c130-38 259-43 395-15 150 30 277 32 405-8v153H0z" fill="#e9dfc9"/>
+  <circle cx="690" cy="84" r="9" fill="#f4c430"/>
+  <circle cx="112" cy="505" r="6" fill="#c51f27"/>
+  <path d="M610 110h64M642 78v64" stroke="#176b3a" stroke-width="5" stroke-linecap="round"/>
+  <ellipse cx="400" cy="535" rx="184" ry="17" fill="#d5c9ad" opacity=".7"/>
+  <g transform="rotate(-24 400 320)"><path d="M368 85h64v292h-64z" fill="#80502f"/><path d="M358 73h84v29h-84z" fill="#252525"/><circle cx="400" cy="400" r="112" fill="#b97945"/><circle cx="400" cy="400" r="42" fill="#252525"/><path d="M381 85v365M389 85v365M397 85v365M405 85v365M413 85v365M421 85v365" stroke="#f4e8cf" stroke-width="2"/><path d="M354 391q46 22 92 0M360 428q40 17 80 0" fill="none" stroke="#252525" stroke-width="7"/><path d="M388 352h24" stroke="#e0bd64" stroke-width="7"/></g>
+</svg>

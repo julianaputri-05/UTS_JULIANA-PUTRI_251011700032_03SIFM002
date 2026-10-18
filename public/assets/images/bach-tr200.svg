@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" role="img" aria-label="Ilustrasi alat musik">
+  <rect width="800" height="620" fill="#f3eddd"/>
+  <path d="M0 490c130-38 259-43 395-15 150 30 277 32 405-8v153H0z" fill="#e9dfc9"/>
+  <circle cx="690" cy="84" r="9" fill="#f4c430"/>
+  <circle cx="112" cy="505" r="6" fill="#c51f27"/>
+  <path d="M610 110h64M642 78v64" stroke="#176b3a" stroke-width="5" stroke-linecap="round"/>
+  <ellipse cx="400" cy="535" rx="184" ry="17" fill="#d5c9ad" opacity=".7"/>
+  <path d="M213 333h281v34H213z" fill="#d3a928" stroke="#252525" stroke-width="7"/><path d="M208 330l-74-38v116l74-38z" fill="#c51f27" stroke="#252525" stroke-width="8"/><path d="M490 334l54-42v116l-54-42z" fill="#f4c430" stroke="#252525" stroke-width="7"/><path d="M306 333v-75h48v77M372 367v75h48v-77M438 333v-96h46v100" fill="none" stroke="#d3a928" stroke-width="22"/><g fill="#252525"><circle cx="325" cy="250" r="20"/><circle cx="392" cy="448" r="20"/><circle cx="460" cy="229" r="20"/></g><path d="M220 334h260" stroke="#fff0bc" stroke-width="5"/>
+</svg>
